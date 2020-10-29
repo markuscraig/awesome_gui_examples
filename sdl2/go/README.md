@@ -49,4 +49,4 @@ $ code -n go/sdl2
 
 Debug using VS-Code and the provided launch configurations:
 
-![screenshot!](/screenshots/vscode_debug.png)
+![screenshot!](screenshots/vscode_debug.png)
