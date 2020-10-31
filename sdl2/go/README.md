@@ -1,4 +1,4 @@
-# Go SDL2 GUI Examples
+# Go SDL2 Examples
 
 Examples apps derived from the `go-sdl2-examples` repo:
 * https://github.com/veandco/go-sdl2-examples/tree/master/examples
@@ -49,4 +49,4 @@ $ code -n go/sdl2
 
 Debug using VS-Code and the provided launch configurations:
 
-![screenshot!](screenshots/vscode_debug.png)
+![screenshot!](/common/screenshots/vscode_debug.png)

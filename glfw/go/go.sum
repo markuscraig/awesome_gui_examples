@@ -1,0 +1,3 @@
+github.com/go-gl/glfw v0.0.0-20200707082815-5321531c36a2 h1:tCvD9jzwA40XAvO3wIhY748dWrXyNJ0mDQ3pTvlHlXQ=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200707082815-5321531c36a2 h1:Ac1OEHHkbAZ6EUnJahF0GKcU0FjPc/V8F1DvjhKngFE=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20200707082815-5321531c36a2/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
